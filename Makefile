@@ -1,5 +1,5 @@
 PKG_NAME := pypi-pyroute2.ethtool
-URL = https://files.pythonhosted.org/packages/4e/6c/702dbfb51cfc0e49dbf5985686dcb091a5d9e2575ed2b3cfb9e40628fc02/pyroute2.ethtool-0.6.11.tar.gz
+URL = https://files.pythonhosted.org/packages/cc/00/d7966c0190b292e8efafb1192e5cd38a8cb1716f65e93ab4668bba4c0ff3/pyroute2.ethtool-0.6.12.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
